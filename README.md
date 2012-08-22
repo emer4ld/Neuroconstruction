@@ -12,3 +12,5 @@ I understand that mouse position reading is client side so there must be somethi
 The question is: The method how to read mouse position on some kind of web frame on javascript or silverlight realization.
 
 All the suggestions are very welcome.
+
+test
